@@ -1,29 +1,17 @@
-# React Native Laboratory Activities (1–7)
+#DCIT26-compilation
 
-## Overview
+A compilation of React Native examples for the course DCIT 26 – Application Development and
+Emerging Technologies
 
-This repository contains seven laboratory activities focused on the fundamentals of mobile application development using React Native and Expo Snack. Each activity demonstrates the practical application of different programming concepts, components, and functionalities essential to building interactive mobile applications.
+## Snacks
 
-These activities serve as academic requirements and document my hands-on experience in developing mobile applications.
-
-## Learning Objectives
-
-- Understand the fundamentals of React Native application development.
-- Utilize built-in components and external libraries.
-- Apply proper component organization and styling.
-- Implement state management, props, and event handling.
-- Develop multi-screen applications using navigation components.
-- Pass and manage data between screens.
-- Integrate external APIs using the JavaScript Fetch API.
-
-## Technologies Used
-
-- **React Native** — Mobile application development framework
-- **JavaScript** — Primary programming language
-- **Expo Snack** — Development and testing environment
-- **React Navigation** — Screen navigation and routing
-- **REST API** — External data retrieval
-- **GitHub** — Source code management and documentation
+* https://snack.expo.dev/@ra.in/ibasco_lab1
+* https://snack.expo.dev/@ra.in/ibasco_lab2
+* https://snack.expo.dev/@ra.in/ibasco_lab3
+* https://snack.expo.dev/@ra.in/ibasco_lab4
+* https://snack.expo.dev/@ra.in/ibasco_lab5
+* https://snack.expo.dev/@ra.in/ibasco_lab6
+* https://snack.expo.dev/@ra.in/ibasco_lab7
 
 ## Dependencies
 
