@@ -26,12 +26,6 @@ Selected laboratory activities utilize the following libraries:
 - react-native-reanimated
 - react-native-worklets
 
-Dependencies may vary depending on the requirements of each laboratory activity and the Expo SDK version.
+## Members
 
-## How to Run
-
-1. Open Expo Snack at https://snack.expo.dev/.
-2. Select the desired laboratory activity from this repository.
-3. Copy the corresponding source code and project files into Expo Snack.
-4. Install the required dependencies, if applicable.
-5. Run the application using the Android, iOS, or compatible web preview.
+- Ibasco, Lawrence Rain R.
