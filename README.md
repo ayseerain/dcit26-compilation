@@ -16,18 +16,6 @@ These activities serve as academic requirements and document my hands-on experie
 - Pass and manage data between screens.
 - Integrate external APIs using the JavaScript Fetch API.
 
-## Concepts and Functionalities
-
-| Concept | Description |
-|---|---|
-| User Input and State Management | Accepting, storing, and displaying user-entered information dynamically. |
-| Modal Components | Displaying modal screens containing images and scrollable content. |
-| Stack Navigation | Implementing navigation between multiple screens. |
-| Drawer Navigation | Creating a side navigation menu. |
-| FlatList and Data Handling | Displaying collections of data and individual product details. |
-| API Integration | Fetching and displaying information from an external REST API. |
-| UI Styling | Designing organized, readable, and interactive mobile interfaces. |
-
 ## Technologies Used
 
 - **React Native** — Mobile application development framework
@@ -59,9 +47,3 @@ Dependencies may vary depending on the requirements of each laboratory activity 
 3. Copy the corresponding source code and project files into Expo Snack.
 4. Install the required dependencies, if applicable.
 5. Run the application using the Android, iOS, or compatible web preview.
-
-An internet connection is required for activities involving external API requests.
-
-## Purpose
-
-This repository documents my academic progress and practical understanding of mobile application development. It showcases
