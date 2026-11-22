@@ -26,6 +26,6 @@ Selected laboratory activities utilize the following libraries:
 - react-native-reanimated
 - react-native-worklets
 
-## Members
+## Members ( BSCS 3-2 )
 
 - Ibasco, Lawrence Rain R.
